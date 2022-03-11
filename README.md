@@ -7,8 +7,6 @@
   Gatsby minimal starter
 </h1>
 
-## GitHub PA token: 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
-
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
